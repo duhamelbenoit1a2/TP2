@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background-color: white;
 }
 
 #header
 {
-	background: #ccc;
+	background-color: cornsilk;
 	padding: 20px;
 }
 
@@ -88,8 +88,65 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background-color: cornsilk;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
 }
+
+h1 {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: cornflowerblue;
+    }
+a:hover{
+    color: crimson;
+}
+
+h3{
+    text-align: center;
+}
+
+#news{
+   margin-left: 30%;
+    background-color: aliceblue;
+    
+}
+#news:hover{
+   margin-left: 15%;
+    background-color: crimson;
+    
+}
+
+#edito{
+    background-color: aliceblue;
+}
+
+#edito:hover{
+   margin-left: 15%;
+    background-color: crimson;
+    
+}
+
+h1:hover{
+    color: blueviolet;
+}
+h2:hover{
+    color: blueviolet;
+}
+h3:hover{
+    color: blueviolet;
+}
+
+
