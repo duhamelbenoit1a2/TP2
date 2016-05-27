@@ -17,6 +17,7 @@
 	float: left;
 	width: 100%;
 	background: #333;
+    margin-bottom: 20px;
 }
 
 #navigation ul
@@ -42,7 +43,10 @@
 }
 
 #navigation li a:hover { background: #383; }
-
+#navigation li a .selected{
+    background:#FFF;
+    color:black;
+}
 #edito
 {
 	clear: left;
